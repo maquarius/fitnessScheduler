@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/fitnessScheduler/static/css/main.39745ba6.chunk.css",
+    "main.js": "/fitnessScheduler/static/js/main.0ed37362.chunk.js",
+    "main.js.map": "/fitnessScheduler/static/js/main.0ed37362.chunk.js.map",
+    "runtime-main.js": "/fitnessScheduler/static/js/runtime-main.529fe0f0.js",
+    "runtime-main.js.map": "/fitnessScheduler/static/js/runtime-main.529fe0f0.js.map",
+    "static/css/2.11f871ab.chunk.css": "/fitnessScheduler/static/css/2.11f871ab.chunk.css",
+    "static/js/2.d1570aac.chunk.js": "/fitnessScheduler/static/js/2.d1570aac.chunk.js",
+    "static/js/2.d1570aac.chunk.js.map": "/fitnessScheduler/static/js/2.d1570aac.chunk.js.map",
+    "index.html": "/fitnessScheduler/index.html",
+    "precache-manifest.24382ebcf40423ec29da350bcaa4ae6f.js": "/fitnessScheduler/precache-manifest.24382ebcf40423ec29da350bcaa4ae6f.js",
+    "service-worker.js": "/fitnessScheduler/service-worker.js",
+    "static/css/2.11f871ab.chunk.css.map": "/fitnessScheduler/static/css/2.11f871ab.chunk.css.map",
+    "static/css/main.39745ba6.chunk.css.map": "/fitnessScheduler/static/css/main.39745ba6.chunk.css.map",
+    "static/media/0.jpg": "/fitnessScheduler/static/media/0.fed3e4a5.jpg",
+    "static/media/1.jpg": "/fitnessScheduler/static/media/1.7652dffc.jpg",
+    "static/media/2.jpg": "/fitnessScheduler/static/media/2.b5e0701a.jpg",
+    "static/media/3.jpg": "/fitnessScheduler/static/media/3.7ddb70cc.jpg",
+    "static/media/4.jpg": "/fitnessScheduler/static/media/4.7f580de2.jpg",
+    "static/media/5.jpg": "/fitnessScheduler/static/media/5.a2d51229.jpg",
+    "static/media/6.jpg": "/fitnessScheduler/static/media/6.7a00faa6.jpg",
+    "static/media/7.jpg": "/fitnessScheduler/static/media/7.4354ac30.jpg",
+    "static/media/8.jpg": "/fitnessScheduler/static/media/8.44923407.jpg",
+    "static/media/Fitness.jpeg": "/fitnessScheduler/static/media/Fitness.21781198.jpeg",
+    "static/media/Gym training.jpeg": "/fitnessScheduler/static/media/Gym training.66c18287.jpeg",
+    "static/media/Jogging.jpeg": "/fitnessScheduler/static/media/Jogging.be19579e.jpeg",
+    "static/media/Spinning.jpeg": "/fitnessScheduler/static/media/Spinning.24a64d5a.jpeg",
+    "static/media/Zumba.jpeg": "/fitnessScheduler/static/media/Zumba.b1d2e430.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.529fe0f0.js",
+    "static/css/2.11f871ab.chunk.css",
+    "static/js/2.d1570aac.chunk.js",
+    "static/css/main.39745ba6.chunk.css",
+    "static/js/main.0ed37362.chunk.js"
+  ]
+}
