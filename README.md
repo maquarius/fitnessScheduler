@@ -1,5 +1,5 @@
 # About
-This was my submission for my Front-End development course i took in Haaga-Helia in 2019. It is a portal for a personal trainern and it displays the customers and their trainings. The data is from an API provided by the teacher, which is deployed on Heroku. So displaying the data might take a while.
+This was my submission for my Front-End development course i took in Haaga-Helia in 2019. It is a portal for a personal trainern and it displays the customers and their trainings. The data is from an API provided by the teacher, which is deployed on Heroku. So displaying the data might take a while. This project is deployed [here]https://maquarius.github.io/customers).
 
 It uses React, react-router and material-ui.
 Home screen:
