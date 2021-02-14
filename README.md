@@ -3,9 +3,11 @@ This was my submission for my Front-End development course i took in Haaga-Helia
 
 It uses React, react-router and material-ui.
 Home screen:
-![homescreen](https://github.com/maquarius/fitnessScheduler/blob/master/src/assets/customerTable.PNG")
+![homescreen](https://github.com/maquarius/fitnessScheduler/blob/master/src/assets/customerTable.PNG)
+
 Add Training / training screen:
 ![Training screen](https://github.com/maquarius/fitnessScheduler/blob/master/src/assets/addTrainingModal.PNG)
+
 Add customer / customer screen:
 ![Customer screen](https://github.com/maquarius/fitnessScheduler/blob/master/src/assets/customerCardsPNG.PNG)
 
